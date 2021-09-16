@@ -16,6 +16,11 @@ info = {
         "DAS" : "",
         "plot_group" : "dy_nnlops"
     },
+    "DYm50_nlo_lowpu" : {
+        "file_path" : ["/eos/cms/store/cmst3/group/wmass/LowPU/Nano_0302//DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/NanoAOD_0302/210303_060423/0000/"],
+        "DAS" : "",
+        "plot_group" : "dy_lowpu",
+    },
     "DYm50_nnlops__nloOnly_photos" : {
         "file_path" : "/eos/cms/store/user/kelong/ZToMuMu_TuneCUETP8M1_13TeV-powheg-NNLOPS-pythia8-photos/*/*/*/*.root",
         "DAS" : "",
